@@ -15,8 +15,6 @@
 
 ## دروس ارشد
 
-<br>
-<br>
 [1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/SAMashiyane/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
 <br>
 [1115029_02	سمينار	2](https://github.com/SAMashiyane/PNU_3991_AR/tree/main/MscSeminar-1)

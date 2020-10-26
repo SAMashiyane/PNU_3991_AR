@@ -3,7 +3,7 @@
 ### سیدعلی محترمی
  
 ---
-- [حساب گیت هاب](https://github.com/saharzeinivand)
+- [حساب گیت هاب](https://github.com/SAMashiyane)
 
 - [رزومه](https://samashiyane.github.io/)
 
@@ -76,7 +76,9 @@
    <tr>
     <th ></th>
      <th ></th>
+     <th ></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
+     <th ></th>
     <th>پنج شنبه</th>
   </tr>
 </table>

@@ -82,5 +82,5 @@
 </table>
 
 Certificate js
-![stability_screenshot](../master/CerJS.png)
+![stability_screenshot](../master/CertJS.png)
 

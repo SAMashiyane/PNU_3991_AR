@@ -12,7 +12,7 @@
 
 --------------------------
 
-## CHAPTER CHAPTER 27_Methodology issues
+## CHAPTER 27_Methodology issues
 
 ### Presentation
    -  Part1. [27.issue 01 ](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/SoftwareDevelopmentMethodologies/27.Methodology%20issues/27.issue%2001.mp4)

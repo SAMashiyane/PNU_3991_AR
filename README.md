@@ -33,13 +33,10 @@
 --------------
 ## گروه های درسی
 
-1. G-S02
-        
-    i. [_SDM-]()    
-    
-   ii. [_SDM-]()
-    
-   iii. [_SDM-26_سيدعلي محترمي](https://github.com/AliRazavi-edu/PNU_3991/edit/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/27_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A/readme.md)
+1. G-S02   
+    1. [_SDM-26_سیدعلی محترمی](https://github.com/AliRazavi-edu/PNU_3991/edit/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/27_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A/readme.md)
+    1.        
+    1. 
 ------------------    
 <div align="center">
      
@@ -101,9 +98,9 @@
    <tr>
     <th ></th>
      <th ><a></a></th>
-     <th ></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture#TOC">معماری نرم افزار</a></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies#TOC">متدولوژی ایجاد نرم افزار</a></th>
-    <th></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>

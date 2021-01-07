@@ -106,6 +106,4 @@
 </table>
 
 </div>
-Certificate js
-![stability_screenshot](../master/CertJS.png)
 

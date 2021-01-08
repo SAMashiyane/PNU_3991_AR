@@ -19,7 +19,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/_General/SAM_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار]()
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/SoftwareDevelopmentMethodologies/SAM_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_سمینار]()
 
 ------------------

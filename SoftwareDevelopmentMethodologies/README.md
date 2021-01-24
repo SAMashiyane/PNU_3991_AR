@@ -24,7 +24,7 @@
 
 ### Reading
 ## Methodologies to develop Web Information Systems and Comparative Analysis
-- [Introduction ](https://drive.google.com/file/d/1ITxV8w90owqLY8DkcQhT0OeLUxgD7hbP/view)
+- [Introduction ](https://drive.google.com/file/d/1ITxV8w90owqLY8DkcQhT0OeLUxgD7hbP/view?usp=sharing)
 - [Web Information Systems ](https://drive.google.com/file/d/1Mrphb0LJ-dxEwVA1Slb-3HSulMSnyLZC/view?usp=sharing)
 
 

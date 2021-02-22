@@ -25,7 +25,7 @@
  - [گزارش سمینار نسخه ورد](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/Seminar_SeyedAliMohtarami.docx)
  - [فایل ارائه](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/Seminar_PowerPoint_SeyedAliMohtarami.pdf)
  - [نسخه پاورپونت فایل ارائه](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/Seminar_PowerPoint_SeyedAliMohtarami.pptx)
- - [اجرای تصویری کد]()
+ - [اجرای تصویری کد](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/Execute_code.mp4)
  - [پیاده سازی کدها](https://github.com/SAMashiyane/PNU_3991_AR/tree/master/MscSeminar-1/_Code_Seminar)
  - [ارزیابی سیمنار](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/SAM_Seminar_Scoring_AR_3991.pdf)
  

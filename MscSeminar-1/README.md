@@ -34,4 +34,5 @@
 ----------------------------------
 ## گروه 
 
-1. 
+1. <p>G-MS04</p>
+ i: [_MS-1_17_سیدعلی محترمی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar/1115029_02/17_%D8%B3%D9%8A%D8%AF%D8%B9%D9%84%D9%8A%20%D9%85%D8%AD%D8%AA%D8%B1%D9%85%D9%8A)

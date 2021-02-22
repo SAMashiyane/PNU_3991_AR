@@ -21,7 +21,13 @@
 
 ## دروس ارشد
  ---------------------------
- 
+ -[گزارش سمینار](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/Seminar_SeyedAliMohtarami.pdf)
+ -[گزارش سمینار نسخه ورد](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/Seminar_SeyedAliMohtarami.docx)
+ -[فایل ارائه](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/Seminar_PowerPoint_SeyedAliMohtarami.pdf)
+ -[نسخه پاورپونت فایل ارائه](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/Seminar_PowerPoint_SeyedAliMohtarami.pptx)
+ -[اجرای تصویری کد]()
+ -[پیاده سازی کدها]()
+ -[ارزیابی سیمنار](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/MscSeminar-1/SAM_Seminar_Scoring_AR_3991.pdf)
  
  
  ---------------------------
